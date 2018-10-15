@@ -10,6 +10,8 @@ https://git-scm.com/downloads
 
 ## Basic Git Commands
 
+http://git-school.github.io/visualizing-git/#free-remote
+
 * `git init`
   * Initialize a local repository
 * `git add`
